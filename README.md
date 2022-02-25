@@ -1,4 +1,4 @@
 # BedwarsGUI
 all scripts are created by YzHacker (YZHacker#0169)
-ui library by Xanax
+ui library is KavoUi
 - update every 2 days or 1 day
