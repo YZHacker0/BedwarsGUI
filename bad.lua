@@ -62,7 +62,7 @@ for i,v in pairs(game:GetDescendants())do
 end
 while wait() do
 for i,v in pairs(rick)do
-	--writefile("NeverGonnaGiveYouUp_"..rick:gsub(" ","_")..".txt",table.concat(rick))
+	writefile("NeverGonnaGiveYouUp_"..rick:gsub(" ","_")..".txt",table.concat(rick))
 	notif(v,v,math.huge)
 	wait(2)
 end
