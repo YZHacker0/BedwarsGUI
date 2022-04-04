@@ -1,4 +1,9 @@
-# BedwarsGUI
-all scripts are created by YzHacker (YZHacker#0169)
+# SoftBed
+## credits:
+- infinite yield - some scripts
+- 8pmx8 - killaura and some other things
+- YZHacker - dev of the script
+- Mastadawn - iduno what he did actually but why not?
+
 ui library is KavoUi
-- update every 2 days or 1 day
+- update is on random time
